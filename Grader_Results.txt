@@ -1,0 +1,9 @@
+Test Results(From Grader):
+File   >> Passed|Total|Failed
+client >>    6  |   9 | 3
+serv1  >>   13  |  14 | 1
+serv2  >>   10  |  14 | 4
+serv3  >>   11  |  14 | 3
+serv4  >>   11  |  14 | 3
+Grader:A program requiring submissions via email and providing feedback
+for the submitted programs showing the results to the candidates.
